@@ -1,0 +1,8 @@
+Dependent Variable (Target Variable): The variable you want to predict is the stock price. In this case, you can choose either the "Close" or "Adj Close" price as your dependent variable. Both are commonly used as target variables in stock price prediction projects. You can choose one, and the choice often depends on whether you want to consider factors like stock splits or dividend payments (which might affect "Adj Close").
+
+Independent Variables (Features): The other variables, "Open," "High," "Low," and "Volume," can be used as independent variables or features. Here's how you can use them:
+
+Open: The opening price of the stock on a given day.
+High: The highest price the stock reached during the day.
+Low: The lowest price the stock reached during the day.
+Volume: The trading volume for the stock on a given day.
