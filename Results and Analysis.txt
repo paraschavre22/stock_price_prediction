@@ -1,18 +1,18 @@
 calculated the correlations between the original series and its decomposed components (trend, seasonal, and residual). Here's an interpretation based on the correlation values you obtained:
 
-Correlation with Trend (0.815):
+Correlation Results:
 
-The high positive correlation (0.815) between the original series and the trend component suggests a strong linear relationship.
-This indicates that a significant portion of the original series' variation can be explained by the trend component.
-Correlation with Seasonal (0.041):
+Correlation with Trend (0.809):
 
-The very low positive correlation (0.041) between the original series and the seasonal component indicates a weak linear relationship.
+The relatively high positive correlation (0.809) between the original 'Close' series and the trend component suggests a strong linear relationship.
+This indicates that a significant portion of the original series' variation aligns with the trend component.
+
+Correlation with Seasonal (0.042):
+
+The very low positive correlation (0.042) between the original 'Close' series and the seasonal component indicates a weak linear relationship.
 The seasonal component might not be closely related to the overall movement of the original series, as the correlation is close to zero.
-Correlation with Residual (0.598):
 
-The moderate positive correlation (0.598) between the original series and the residual component suggests a moderate linear relationship.
-The residual captures the fluctuations or variability not explained by the trend or seasonal patterns. A moderate correlation indicates some relationship but less than with the trend.
-Insights:
-The high correlation with the trend component indicates that much of the variation in the original series can be attributed to the underlying trend.
-The seasonal component shows a very low correlation, implying that the regular seasonal patterns might not strongly influence the overall movement of the original series.
-The residual component captures some variability not accounted for by the trend or seasonality but has a moderate relationship with the original series.
+Correlation with Residual (0.609):
+
+The moderate positive correlation (0.609) between the original 'Close' series and the residual component suggests a moderate linear relationship.
+The residual captures some variability not explained by the trend or seasonality and has a moderate relationship with the original series.
